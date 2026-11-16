@@ -1,4 +1,4 @@
-# Taller07
+# Taller06
 
 ## Construcción de programas usando estructuras repetitivas WHILE y DO-WHILE
 
